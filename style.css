@@ -1,5 +1,7 @@
+@import url('https://fonts.googleapis.com/css2?family=Akaya+Telivigala&display=swap');
 @page{
     max-height: 1500px;
+    
 }
 #header {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
@@ -9,7 +11,7 @@
     margin-top: 60%;
     margin-left: 60%;
 }
-body {
+#inB {
 background-color: peachpuff;
 }
 
@@ -43,4 +45,9 @@ p {
 #scroll1{
     border: solid green 10px;
     
+}
+
+#lpB{
+ background-color: burlywood;
+ 
 }
